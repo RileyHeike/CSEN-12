@@ -1,0 +1,20 @@
+#include "set.h"
+#include <strlib.h>
+#include <stdlib.h>
+#include <assert.h>
+#include <stdbool.h>
+
+struct set{
+
+	char **elts;
+	int length;
+	int count;
+}
+
+SET *createSet(int maxElts){
+
+
+
+}
+
+
